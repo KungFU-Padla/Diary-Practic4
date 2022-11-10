@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Diary of a madman/1.0.0": {
+        "runtime": {
+          "Diary of a madman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diary of a madman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

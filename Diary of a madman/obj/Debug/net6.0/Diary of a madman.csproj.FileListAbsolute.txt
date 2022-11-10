@@ -1,0 +1,15 @@
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\obj\Debug\net6.0\Diary of a madman.csproj.AssemblyReference.cache
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\obj\Debug\net6.0\Diary of a madman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\obj\Debug\net6.0\Diary of a madman.AssemblyInfoInputs.cache
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\obj\Debug\net6.0\Diary of a madman.AssemblyInfo.cs
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\obj\Debug\net6.0\Diary of a madman.csproj.CoreCompileInputs.cache
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\bin\Debug\net6.0\Diary of a madman.exe
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\bin\Debug\net6.0\Diary of a madman.deps.json
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\bin\Debug\net6.0\Diary of a madman.runtimeconfig.json
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\bin\Debug\net6.0\Diary of a madman.dll
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\bin\Debug\net6.0\Diary of a madman.pdb
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\obj\Debug\net6.0\Diary of a madman.dll
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\obj\Debug\net6.0\refint\Diary of a madman.dll
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\obj\Debug\net6.0\Diary of a madman.pdb
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\obj\Debug\net6.0\Diary of a madman.genruntimeconfig.cache
+C:\Users\lexre\source\repos\Diary of a madman\Diary of a madman\obj\Debug\net6.0\ref\Diary of a madman.dll
